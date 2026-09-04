@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Uri 👋</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=M+PLUS+U&size=32&duration=2000&pause=1000&color=0A66C2&center=true&vCenter=true&width=170&height=35&lines=Hi;Hola;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" alt="Typing SVG" />, I'm Uri 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Student" alt="Typing SVG" />
-  </a>
 </p>
+<h3 align="center">Fullstack Developer && Student</h3>
 <p align="center">
+
   <a href="https://www.linkedin.com/in/ovitutia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
